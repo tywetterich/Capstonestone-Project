@@ -1,0 +1,31 @@
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\bin\Debug\net7.0\appsettings.json
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\bin\Debug\net7.0\Capstone WebApp.staticwebassets.runtime.json
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\bin\Debug\net7.0\Capstone WebApp.exe
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\bin\Debug\net7.0\Capstone WebApp.deps.json
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\bin\Debug\net7.0\Capstone WebApp.runtimeconfig.json
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\bin\Debug\net7.0\Capstone WebApp.dll
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\bin\Debug\net7.0\Capstone WebApp.pdb
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\Capstone WebApp.csproj.AssemblyReference.cache
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\Capstone WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\Capstone WebApp.AssemblyInfoInputs.cache
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\Capstone WebApp.AssemblyInfo.cs
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\Capstone WebApp.csproj.CoreCompileInputs.cache
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\Capstone WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\Capstone WebApp.RazorAssemblyInfo.cache
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\Capstone WebApp.RazorAssemblyInfo.cs
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\staticwebassets\msbuild.Capstone WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.Capstone WebApp.props
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Capstone WebApp.props
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Capstone WebApp.props
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\scopedcss\bundle\Capstone WebApp.styles.css
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\scopedcss\projectbundle\Capstone WebApp.bundle.scp.css
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\Capstone WebApp.dll
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\refint\Capstone WebApp.dll
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\Capstone WebApp.pdb
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\Capstone WebApp.genruntimeconfig.cache
+C:\Project\tywetterich\Capstonestone-Project\Capstone WebApp\obj\Debug\net7.0\ref\Capstone WebApp.dll
